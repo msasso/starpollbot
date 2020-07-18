@@ -1,3 +1,3 @@
-# starpollbot
+# StarPollBot
 
 This is a placeholder
